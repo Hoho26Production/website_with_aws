@@ -101,7 +101,7 @@ if (empty($_SESSION["akses"]))
                 </li>
                 <li><label><strong>Tautan : </strong></label>
                   <p>
-                    nugrohoubhara@gmail.com<br>IP Private (172.31.38.251)<br>IP Public (54.251.192.189)<br>Kode xxx-github-xxx
+                    nugrohoubhara@gmail.com<br>IP Private (172.31.38.251)<br>IP Public (54.251.192.189)<br><a href="https://github.com/Hoho26Production/website_with_aws" target="_blank">Source Code</a>
                   </p>
                 </li>
               </ul>
