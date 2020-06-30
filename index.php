@@ -163,7 +163,7 @@ if (empty($_SESSION["akses"]))
                 </div>
                 <div class="btn-toolbar cta">
                   <a class="btn btn-large btn-color">NIM: 1914322001</a>
-                  <a class="btn btn-large btn-color" style="background-color: steelblue;">source code (Hoho26arsip)</a>
+                  <a href="https://github.com/Hoho26Production/website_with_aws" target="_blank" class="btn btn-large btn-color" style="background-color: steelblue;">source code (Hoho26arsip)</a>
                   <a class="btn btn-large btn-inverse">IP: 172.31.38.251 (private)</a>
                   <a class="btn btn-large btn-color" style="background-color: darksalmon;">IP: 54.251.192.189 (public)</a>
                 </div>
