@@ -1,5 +1,5 @@
 <?php
-$konekkueri = new mysqli("dbbog.cd2btkf0u7ut.ap-southeast-1.rds.amazonaws.com","admin","adminadmin","dbbog","3306");
+$konekkueri = new mysqli("--hostname--","--username--","--password--","--databasename","--port--");
 
 // Check connection
 if ($konekkueri -> connect_errno) {
